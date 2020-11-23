@@ -19,6 +19,7 @@ The program, will display the above menu, once it has gotten:<br>
 their effect on his/her GPA<br>
 - option 1:<br>
 to display the info given to the program<br><br>
+![](images/3.png)
 - option 2:<br>
 to calculate and display the new GPA<br>
 The calculation formula for the new GPA is as follows:<br>
@@ -30,12 +31,17 @@ For example, for the above example<br>
 x= (4.0*120) + (4*3) + (3*3) + (4*3) = 513<br>
 y= 120 + 3 + 3 + 3 = 129<br>
 New GPA = 513/129 = 3.976<br><br>
+![](images/4.png)
 - option 3:<br>
 a list of the current courses will be listed and the user will be asked to choose the course number of the course to be deleted.<br>
 After the deletion of some course, the GPA needs to be recalculated<br><br>
+![](images/5.png)<br>
+![](images/6.png)
 - option 4:<br>
 is used to add a course<br>
 After the addition of some course, the GPA needs to be recalculated<br><br>
+![](images/7.png)<br>
+![](images/8.png)
 - option 5:<br>
 will make the program terminate.<br><br>
 Validation to be done:<br>
